@@ -1,7 +1,7 @@
-# 🎮 Dementes: Un Juego de Rol en Línea 3D
+# 🎮 Dementes: Juego de Rol en Línea 3D
 
 <div style="text-align: center;">
-    <img src="images/01.jpg" alt="Screenshot" width="400">
+    <img src="images/02.png" alt="Screenshot" width="1000">
 </div>
 
 ## 🚀 Descripción del Proyecto
@@ -51,9 +51,10 @@
 
 ## 📷 Capturas de Pantalla
 <div style="text-align: center;">
-    <img src="images/01.jpg" alt="Screenshot" width="400">
-    <img src="images/01.jpg" alt="Screenshot" width="400">
-    <img src="images/01.jpg" alt="Screenshot" width="400">
+    <img src="images/04.png" alt="Screenshot" width="400">
+    <img src="images/05.png" alt="Screenshot" width="400">
+    <img src="images/06.png" alt="Screenshot" width="400">
+    <img src="images/07.png" alt="Screenshot" width="400">
 </div>
 
 ---
@@ -73,8 +74,14 @@
 ## ▶️ Instrucciones de Ejecución
 
 - **Instalación:** Dirígete a la [Play Store](https://play.google.com/store/apps/details?id=com.CodesignProjects.Dementes), descarga e instala el videojuego.
+<div style="text-align: center;">
+    <img src="images/01.png" alt="Screenshot" width="400">
+</div>
 
 - **Configuración de Usuario:** Crea una cuenta dentro de la [página oficial](https://dementesgame.com/) y crea tu personaje inicial.
+<div style="text-align: center;">
+    <img src="images/03.png" alt="Screenshot" width="400">
+</div>
 
 - **Inicio de Juego:** Inicia sesión con las credenciales que has creado y disfruta de la experiencia.
 
